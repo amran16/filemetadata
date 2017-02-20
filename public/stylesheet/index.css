@@ -1,0 +1,40 @@
+body{
+  background: -webkit-linear-gradient(to left, #F3904F , #3B4371); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #F3904F , #3B4371); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  margin: 20px;
+  font-family: serif;
+  margin-top: 70px;
+}
+
+h1{
+  font-size:60px;
+}
+
+h3{
+   font-size:40px;
+   margin-bottom: 60px;
+}
+
+input[type="file"] {
+	width: 0.9px;
+	overflow: hidden;
+	position: absolute;
+	z-index: -1;
+}
+
+.inputBtn {
+  background: #008B8B;
+  border-radius: 10px;
+  font-size: 40px;
+  display: inline-block;
+  padding: 20px 30px;
+}
+
+button{
+  border: none;
+  display: block;
+  margin-top: 40px;
+  font-size: 40px;
+  background: #BC8F8F;
+  border-radius: 5px;
+}
