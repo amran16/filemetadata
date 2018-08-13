@@ -1,6 +1,6 @@
  ## File Metadata Microservice
 
-The Recipe Box was built according to:
+This project was built according to:
 
 https://learn.freecodecamp.org/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice
 
