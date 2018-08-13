@@ -19,7 +19,7 @@ app.post('/addfile', multer().single('inputfile'), function (req, res, next) {
 
     var files = req.file;
 
-    var data ={
+    var data = { 
         name: files.originalname,
         size: files.size + ' bytes'
     }
